@@ -1,0 +1,10 @@
+Package: RAWmisc
+Version: 1.0.7
+Depends: R (>= 3.1.0)
+Imports: ggplot2, grid, maptools, rmarkdown,
+     stringr, readxl, gmailr, broom, magrittr,
+     lubridate, data.table, utils
+Suggests: testthat
+License: GPL-3
+MD5sum: 9174ea76e0708bfbc9168b44a2c81621
+NeedsCompilation: no
