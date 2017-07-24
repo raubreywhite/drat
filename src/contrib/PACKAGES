@@ -1,18 +1,18 @@
 Package: fhi
-Version: 1.0.0
+Version: 1.0.1
 Depends: R (>= 3.1.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, scales, RAWmisc
+            data.table, scales, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: d0d38e497ac49ecb09cefe7c8fe93721
+MD5sum: b618d3aa4c61b59d46b62a1ef46867ff
 NeedsCompilation: no
 
 Package: RAWmisc
 Version: 1.0.7
 Depends: R (>= 3.1.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, utils
+            data.table, utils
 Suggests: testthat
 License: GPL-3
 MD5sum: 9174ea76e0708bfbc9168b44a2c81621
