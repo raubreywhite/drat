@@ -17,6 +17,16 @@ License: GPL-3
 MD5sum: 42c29f3ff5bfa831c11da6e45b189cea
 NeedsCompilation: no
 
+Package: normomo
+Version: 0.0.0.9000
+Depends: R (>= 3.4.0)
+Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+            data.table, utils, fhi, RAWmisc, gridExtra, grDevices, stats, zip
+Suggests: testthat
+License: GPL-3
+MD5sum: 3b75c5289d6b7f29cfd54ecb53829277
+NeedsCompilation: no
+
 Package: RAWmisc
 Version: 1.0.7
 Depends: R (>= 3.1.0)
@@ -25,4 +35,20 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, mag
 Suggests: testthat
 License: GPL-3
 MD5sum: 9174ea76e0708bfbc9168b44a2c81621
+NeedsCompilation: no
+
+Package: reporttb
+Version: 0.0.0.9000
+Depends: R (>= 3.4.0)
+Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+            data.table, utils, fhi, RAWmisc
+MD5sum: 471907871017213e8f7abb4670a4fc25
+NeedsCompilation: no
+
+Package: sykdomspuls
+Version: 0.0.0.9000
+Depends: R (>= 3.4.0)
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+            data.table, utils, fhi, RAWmisc
+MD5sum: f1c40a0a4797eadd347ee295437d8d7c
 NeedsCompilation: no
