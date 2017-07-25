@@ -8,6 +8,15 @@ License: GPL-3
 MD5sum: b618d3aa4c61b59d46b62a1ef46867ff
 NeedsCompilation: no
 
+Package: momo
+Version: 0.2.0
+Depends: R (>= 3.3.3)
+Imports: data.table, foreign, stringr, stats, grDevices, graphics, utils, glm2
+Suggests: testthat, knitr, rmarkdown
+License: GPL-3
+MD5sum: 42c29f3ff5bfa831c11da6e45b189cea
+NeedsCompilation: no
+
 Package: RAWmisc
 Version: 1.0.7
 Depends: R (>= 3.1.0)
