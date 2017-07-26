@@ -2,7 +2,7 @@ Package: fhi
 Version: 1.0.1
 Depends: R (>= 3.1.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, scales, RAWmisc
+            data.table, scales, RAWmisc
 Suggests: testthat
 License: GPL-3
 MD5sum: b618d3aa4c61b59d46b62a1ef46867ff
@@ -21,17 +21,17 @@ Package: normomo
 Version: 0.0.2
 Depends: R (>= 3.4.0)
 Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, utils, fhi, RAWmisc, gridExtra, grDevices, stats, zip
+            data.table, utils, fhi, RAWmisc, gridExtra, grDevices, stats, zip
 Suggests: testthat
 License: GPL-3
-MD5sum: fea6452d81a002330739b059c9d6dacd
+MD5sum: 57c55331d0aaa5e9b87a8cf7f7115115
 NeedsCompilation: no
 
 Package: RAWmisc
 Version: 1.0.7
 Depends: R (>= 3.1.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, utils
+            data.table, utils
 Suggests: testthat
 License: GPL-3
 MD5sum: 9174ea76e0708bfbc9168b44a2c81621
@@ -41,7 +41,7 @@ Package: reporttb
 Version: 0.0.0.9000
 Depends: R (>= 3.4.0)
 Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, utils, fhi, RAWmisc
+            data.table, utils, fhi, RAWmisc
 MD5sum: 471907871017213e8f7abb4670a4fc25
 NeedsCompilation: no
 
@@ -49,6 +49,6 @@ Package: sykdomspuls
 Version: 0.0.0.9000
 Depends: R (>= 3.4.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
-           data.table, utils, fhi, RAWmisc
+            data.table, utils, fhi, RAWmisc
 MD5sum: f1c40a0a4797eadd347ee295437d8d7c
 NeedsCompilation: no
