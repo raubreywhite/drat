@@ -26,7 +26,7 @@ Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         fhi, RAWmisc, gridExtra, grDevices, stats, zip
 Suggests: testthat
 License: GPL-3
-MD5sum: b071f789006170bffe0612e9e3592487
+MD5sum: 2359c5022a54da570ab4fa3716611c36
 NeedsCompilation: no
 
 Package: RAWmisc
@@ -47,7 +47,7 @@ Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: b724a4d12a967d0aa697238c8e928f24
+MD5sum: 46d4b7111de4926031f1701c4534e2d6
 NeedsCompilation: no
 
 Package: sykdomspuls
@@ -58,5 +58,5 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         jsonlite, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 9cfab30179bf8e995fb0e561c43126bd
+MD5sum: 03798dd4c26ebdab04c7fbf310b44b17
 NeedsCompilation: no
