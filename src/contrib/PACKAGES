@@ -15,7 +15,7 @@ Imports: data.table, foreign, stringr, stats, grDevices, graphics,
         utils, glm2
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 42c29f3ff5bfa831c11da6e45b189cea
+MD5sum: 694cfc07b05395175c7bd2255baad7ef
 NeedsCompilation: no
 
 Package: normomo
