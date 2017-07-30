@@ -55,8 +55,8 @@ Version: 0.0.2
 Depends: R (>= 3.4.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, utils, fhi, httr,
-        jsonlite, RAWmisc
+        jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 106d62d73b7bef775c7eb7a85cd6e435
+MD5sum: f3ea3e7a3e20f3a330d7610f053411f9
 NeedsCompilation: no
