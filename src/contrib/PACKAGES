@@ -47,7 +47,7 @@ Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: f64f62ccd495e7e9112c080f7f3aa76f
+MD5sum: da58cc0efca15820a20d5c99a486db42
 NeedsCompilation: no
 
 Package: sykdomspuls
