@@ -1,8 +1,8 @@
 Package: fhi
 Version: 1.0.1
 Depends: R (>= 3.1.0)
-Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
-        broom, magrittr, lubridate, data.table, scales, RAWmisc
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+           data.table, scales, RAWmisc
 Suggests: testthat
 License: GPL-3
 MD5sum: b618d3aa4c61b59d46b62a1ef46867ff
@@ -11,8 +11,7 @@ NeedsCompilation: no
 Package: momo
 Version: 0.2.0
 Depends: R (>= 3.3.3)
-Imports: data.table, foreign, stringr, stats, grDevices, graphics,
-        utils, glm2
+Imports: data.table, foreign, stringr, stats, grDevices, graphics, utils, glm2
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
 MD5sum: 694cfc07b05395175c7bd2255baad7ef
@@ -21,9 +20,8 @@ NeedsCompilation: no
 Package: normomo
 Version: 0.0.2
 Depends: R (>= 3.4.0)
-Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
-        gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
-        fhi, RAWmisc, gridExtra, grDevices, stats, zip
+Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+           data.table, caTools, utils, fhi, RAWmisc, gridExtra, grDevices, stats, zip
 Suggests: testthat
 License: GPL-3
 MD5sum: 149eb45356e182693edd2bcf86bb3fa6
@@ -32,8 +30,8 @@ NeedsCompilation: no
 Package: RAWmisc
 Version: 1.0.7
 Depends: R (>= 3.1.0)
-Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
-        broom, magrittr, lubridate, data.table, utils
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+           data.table, utils
 Suggests: testthat
 License: GPL-3
 MD5sum: 569f80d9e620e6c7e140e37b58c49837
@@ -42,9 +40,8 @@ NeedsCompilation: no
 Package: reporttb
 Version: 0.0.2
 Depends: R (>= 3.4.0)
-Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
-        gmailr, broom, magrittr, lubridate, data.table, utils, fhi,
-        RAWmisc
+Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+           data.table, utils, fhi, RAWmisc
 Suggests: testthat
 License: GPL-3
 MD5sum: da58cc0efca15820a20d5c99a486db42
@@ -53,9 +50,8 @@ NeedsCompilation: no
 Package: sykdomspuls
 Version: 2017.07.30
 Depends: R (>= 3.4.0)
-Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
-        broom, magrittr, lubridate, data.table, utils, fhi, httr,
-        jsonlite, zoo, RAWmisc
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr, broom, magrittr, lubridate,
+           data.table, utils, fhi, httr, jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
 MD5sum: 25c8f2b2737222419a6cb9452a72c465
