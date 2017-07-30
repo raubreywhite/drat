@@ -58,5 +58,5 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: d4e0403a5258b759f3f50b802a96d3ca
+MD5sum: 25c8f2b2737222419a6cb9452a72c465
 NeedsCompilation: no
