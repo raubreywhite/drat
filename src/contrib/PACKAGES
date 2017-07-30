@@ -36,7 +36,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, utils
 Suggests: testthat
 License: GPL-3
-MD5sum: 3d0c0ce99846771d1bf6c8bd18b9c68f
+MD5sum: 569f80d9e620e6c7e140e37b58c49837
 NeedsCompilation: no
 
 Package: reporttb
