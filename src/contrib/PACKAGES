@@ -18,6 +18,16 @@ License: GPL-3
 MD5sum: c72efbc6c533956c87c49aef0c0a8695
 NeedsCompilation: no
 
+Package: msis
+Version: 2017.07.30
+Depends: R (>= 3.4.0)
+Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
+        broom, magrittr, lubridate, data.table, utils, fhi, RAWmisc
+Suggests: testthat
+License: GPL-3
+MD5sum: c016e216acc65e3d5983161dbfeb97ac
+NeedsCompilation: no
+
 Package: normomo
 Version: 2017.07.30
 Depends: R (>= 3.4.0)
