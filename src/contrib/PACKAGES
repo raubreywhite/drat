@@ -40,14 +40,14 @@ MD5sum: 569f80d9e620e6c7e140e37b58c49837
 NeedsCompilation: no
 
 Package: reporttb
-Version: 0.0.2
+Version: 2017.07.30
 Depends: R (>= 3.4.0)
 Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, utils, fhi,
         RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: da58cc0efca15820a20d5c99a486db42
+MD5sum: e887b2a80e98352ba27448e940982371
 NeedsCompilation: no
 
 Package: sykdomspuls
