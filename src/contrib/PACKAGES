@@ -26,7 +26,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 6ea62cd442b6a1c770f9d9f288f9ac2c
+MD5sum: 64255a15a77c3195873a6788088901f0
 NeedsCompilation: no
 
 Package: normomo
