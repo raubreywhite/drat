@@ -37,7 +37,7 @@ Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         fhi, RAWmisc, gridExtra, grDevices, stats, zip
 Suggests: testthat
 License: GPL-3
-MD5sum: cb664811ace7593b2240f3965f7c2b29
+MD5sum: 14fdc22d27153672e37aed003065a7f1
 NeedsCompilation: no
 
 Package: RAWmisc
