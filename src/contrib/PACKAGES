@@ -69,5 +69,5 @@ Imports: glm2, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         httr, jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 9adb649d76072228e11f6d4830363211
+MD5sum: 287891e9b825c060638927710ca3cc11
 NeedsCompilation: no
