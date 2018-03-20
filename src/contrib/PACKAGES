@@ -71,3 +71,10 @@ Suggests: testthat
 License: GPL-3
 MD5sum: 36165970cc66497b098b6c5263312f77
 NeedsCompilation: no
+
+Package: sykdomspulslog
+Version: 2018.03.20
+Depends: R (>= 3.4.2)
+License: GPL-3
+MD5sum: 181b758844132603c6967f9336adb921
+NeedsCompilation: no
