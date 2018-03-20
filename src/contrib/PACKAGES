@@ -69,7 +69,7 @@ Imports: glm2, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         httr, jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 684720b53880ba1272ebfe4e98629e24
+MD5sum: d5b070c5239bb155a9b6e56cadff8719
 NeedsCompilation: no
 
 Package: sykdomspulslog
