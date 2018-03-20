@@ -78,3 +78,10 @@ Depends: R (>= 3.4.2)
 License: GPL-3
 MD5sum: 181b758844132603c6967f9336adb921
 NeedsCompilation: no
+
+Package: sykdomspulspdf
+Version: 2018.03.20
+Depends: R (>= 3.4.2)
+License: GPL-3
+MD5sum: 03700fd374c52991ba2fb7f937a2cca2
+NeedsCompilation: no
