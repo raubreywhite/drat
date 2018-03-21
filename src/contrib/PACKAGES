@@ -72,6 +72,13 @@ License: GPL-3
 MD5sum: 2c13cc9550df06a29225588f05ff06ce
 NeedsCompilation: no
 
+Package: sykdomspulscompartmentalinfluenza
+Version: 2018.03.21
+Depends: R (>= 3.4.2)
+License: GPL-3
+MD5sum: a349c5cc92b91b795c63ba3ea3ac5d4e
+NeedsCompilation: no
+
 Package: sykdomspulslog
 Version: 2018.03.20
 Depends: R (>= 3.4.2)
