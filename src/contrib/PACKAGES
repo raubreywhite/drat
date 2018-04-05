@@ -47,7 +47,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, utils, processx, stats
 Suggests: testthat
 License: GPL-3
-MD5sum: f90f982cb21f41f9be99c395a32ecc38
+MD5sum: 5af9f324bdd2f4acfac9f0fd17736e7d
 NeedsCompilation: no
 
 Package: reporttb
