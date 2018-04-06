@@ -62,14 +62,14 @@ MD5sum: 217d21978406718de88cd4f3a43fcef3
 NeedsCompilation: no
 
 Package: sykdomspuls
-Version: 2018.04.05
+Version: 2018.04.06
 Depends: R (>= 3.4.0)
 Imports: glm2, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, utils, fhi,
         httr, jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 8371afba7ec275fe44248f8241cdc08c
+MD5sum: 5512f539510ef53ef6611d3f26d88aa2
 NeedsCompilation: no
 
 Package: sykdomspulscompartmentalinfluenza
