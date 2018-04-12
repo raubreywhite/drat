@@ -5,7 +5,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 82f1f07fcbe894aa196b9e1411d4d3a6
+MD5sum: 6ac12e33880d155a019082e56a078c47
 NeedsCompilation: no
 
 Package: momo
