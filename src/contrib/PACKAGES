@@ -29,6 +29,14 @@ License: GPL-3
 MD5sum: 64255a15a77c3195873a6788088901f0
 NeedsCompilation: no
 
+Package: noispiah
+Version: 2018.04.25
+Depends: R (>= 3.4.2)
+Suggests: testthat
+License: GPL-3
+MD5sum: 93619118bc04511757853efd49183f20
+NeedsCompilation: no
+
 Package: normomo
 Version: 2018.04.12
 Depends: R (>= 3.4.0)
