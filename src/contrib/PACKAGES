@@ -49,14 +49,14 @@ MD5sum: 2c4a89ec0cf7eb2dbc20691811bca78f
 NeedsCompilation: no
 
 Package: RAWmisc
-Version: 2018.05.03
+Version: 2018.05.04
 Depends: R (>= 3.1.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, utils, processx, stats,
         lmtest, MASS
 Suggests: testthat, rms
 License: GPL-3
-MD5sum: 5438cad4b48d7088f43b4d5d3e37d3c1
+MD5sum: 2da7973ef6a877fa518837b41f709dcf
 NeedsCompilation: no
 
 Package: reporttb
