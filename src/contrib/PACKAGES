@@ -78,7 +78,7 @@ Imports: glm2, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         httr, jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: df16511a17af08ec15d1b3fd2a2eaec8
+MD5sum: 20b947236cb7e8e41599cb9a1b1d75d2
 NeedsCompilation: no
 
 Package: sykdomspulscompartmentalinfluenza
