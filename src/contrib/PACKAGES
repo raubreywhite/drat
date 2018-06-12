@@ -77,7 +77,7 @@ Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: e39271ea870b2e104af337f380b46b8f
+MD5sum: 958f0815b79254c2494175832a911f10
 NeedsCompilation: no
 
 Package: sykdomspulscompartmentalinfluenza
