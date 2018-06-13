@@ -71,13 +71,13 @@ MD5sum: 217d21978406718de88cd4f3a43fcef3
 NeedsCompilation: no
 
 Package: sykdomspuls
-Version: 2018.06.12
+Version: 2018.06.13
 Depends: R (>= 3.4.0)
 Imports: glm2, stringr, readxl, lubridate, data.table, fhi, httr,
         jsonlite, zoo, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 0fe48074fcec0f4e6c7f1fb44ba4b4a7
+MD5sum: 288b0941f1da31f5f6f584535e36727d
 NeedsCompilation: no
 
 Package: sykdomspulscompartmentalinfluenza
