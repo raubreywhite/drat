@@ -33,10 +33,10 @@ Package: noispiah
 Version: 2018.06.21
 Depends: R (>= 3.4.2)
 Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
-        stringr
+        stringr, ggplot2
 Suggests: testthat
 License: GPL-3
-MD5sum: e633af61abbea08e71679352fd67737f
+MD5sum: bad0c5b06d09885f935f2cde6046a2fd
 NeedsCompilation: no
 
 Package: normomo
