@@ -58,7 +58,7 @@ Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         lmtest, MASS
 Suggests: testthat, rms
 License: GPL-3
-MD5sum: 493f1878d911e57c3fc27477c42a74d0
+MD5sum: f219242421835ab58a3889f57e145572
 NeedsCompilation: no
 
 Package: reporttb
