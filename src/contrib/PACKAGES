@@ -1,11 +1,11 @@
 Package: fhi
-Version: 2018.04.12
+Version: 2018.06.26
 Depends: R (>= 3.1.0)
 Imports: ggplot2, grid, maptools, rmarkdown, stringr, readxl, gmailr,
         broom, magrittr, lubridate, data.table, scales, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: 6ac12e33880d155a019082e56a078c47
+MD5sum: 78bf37f7f3acbb6ff67293ec3f25386b
 NeedsCompilation: no
 
 Package: momo
