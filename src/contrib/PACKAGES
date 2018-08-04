@@ -30,13 +30,13 @@ MD5sum: 64255a15a77c3195873a6788088901f0
 NeedsCompilation: no
 
 Package: noispiah
-Version: 2018.07.06
+Version: 2018.08.04
 Depends: R (>= 3.4.2)
 Imports: fhi, RAWmisc, data.table, lubridate, xtable, rmarkdown,
         stringr, ggplot2, processx, readxl, uuid
 Suggests: testthat
 License: GPL-3
-MD5sum: 4519fe3a5e5ca29cf71436efc1628577
+MD5sum: f3037c81cd810985a8d54db1e09f86d6
 NeedsCompilation: no
 
 Package: normomo
