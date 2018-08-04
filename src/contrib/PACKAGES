@@ -83,12 +83,13 @@ MD5sum: 1829798e9a5e39f7951a22b6638cfe05
 NeedsCompilation: no
 
 Package: sykdomspulscompartmentalinfluenza
-Version: 2018.05.23
+Version: 2018.08.04
 Depends: R (>= 3.4.2)
-Imports: data.table, readxl, withr, processx, sykdomspuls, fhi, RAWmisc
+Imports: data.table, readxl, withr, processx, devtools, sykdomspuls,
+        fhi, RAWmisc
 Suggests: testthat
 License: GPL-3
-MD5sum: b6b3118e76afa208365e738a885dc8f1
+MD5sum: bb649f34f58d9430766d3935c0145efe
 NeedsCompilation: no
 
 Package: sykdomspulslog
