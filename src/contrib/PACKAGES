@@ -40,14 +40,14 @@ MD5sum: f3037c81cd810985a8d54db1e09f86d6
 NeedsCompilation: no
 
 Package: normomo
-Version: 2018.08.08
+Version: 2018.08.20
 Depends: R (>= 3.4.0)
 Imports: momo, ggplot2, grid, maptools, rmarkdown, stringr, readxl,
         gmailr, broom, magrittr, lubridate, data.table, caTools, utils,
         fhi, RAWmisc, gridExtra, grDevices, stats, zip, openxlsx
 Suggests: testthat
 License: GPL-3
-MD5sum: 1d130dc20ff80e0799672d8290d8f57a
+MD5sum: 6914e25408385929835ae496a34021da
 NeedsCompilation: no
 
 Package: RAWmisc
