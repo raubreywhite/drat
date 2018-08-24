@@ -15,7 +15,7 @@ Imports: data.table, foreign, stringr, stats, grDevices, graphics,
         utils, glm2, MASS
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 01360fd6e9bd5dfab43101cfd98ec3a6
+MD5sum: ad0b8d2fed09c9f620946f6c30934fde
 NeedsCompilation: no
 
 Package: msis
