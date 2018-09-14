@@ -9,13 +9,13 @@ MD5sum: 31531494f73becf0d5cb04f675dfeff0
 NeedsCompilation: no
 
 Package: momo
-Version: 2018.08.24
+Version: 2018.09.14
 Depends: R (>= 3.3)
 Imports: data.table, foreign, stringr, stats, grDevices, graphics,
-        utils, glm2, MASS
+        utils, glm2, MASS, glmnet
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 517d95b6e55e68a2ac15a543efbc9b46
+MD5sum: 2e0e8c4e83571d9904d858ba277c45e7
 NeedsCompilation: no
 
 Package: msis
