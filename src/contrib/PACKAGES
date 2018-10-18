@@ -50,6 +50,15 @@ License: GPL-3
 MD5sum: c3c5433c6969090c5b40e2038adcc4ac
 NeedsCompilation: no
 
+Package: org
+Version: 2018.10.18
+Depends: R (>= 3.5.0)
+Imports: stringr, processx, lubridate
+Suggests: testthat, rms
+License: GPL-3
+MD5sum: 363dbe56f0d38d8feb2ebddcfa814d94
+NeedsCompilation: no
+
 Package: RAWmisc
 Version: 2018.10.18
 Depends: R (>= 3.1.0)
