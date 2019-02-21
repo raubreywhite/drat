@@ -52,11 +52,11 @@ NeedsCompilation: no
 
 Package: org
 Version: 2019.02.21
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.3.0)
 Imports: stringr, lubridate
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 2f55d6283161c9e9df9636f2a8c537e1
+MD5sum: fb7f630c5264d7bac0ca325a7224db80
 NeedsCompilation: no
 
 Package: RAWmisc
