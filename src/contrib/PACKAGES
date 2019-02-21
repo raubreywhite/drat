@@ -54,9 +54,9 @@ Package: org
 Version: 2019.02.21
 Depends: R (>= 3.5.0)
 Imports: stringr, lubridate
-Suggests: testthat, rms, knitr, rmarkdown
+Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: e0f98d93fe3afd8729f05eb91bed6721
+MD5sum: 2f55d6283161c9e9df9636f2a8c537e1
 NeedsCompilation: no
 
 Package: RAWmisc
