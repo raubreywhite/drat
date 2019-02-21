@@ -51,12 +51,12 @@ MD5sum: c3c5433c6969090c5b40e2038adcc4ac
 NeedsCompilation: no
 
 Package: org
-Version: 2018.12.04
+Version: 2019.02.21
 Depends: R (>= 3.5.0)
-Imports: stringr, processx, lubridate
-Suggests: testthat, rms
+Imports: stringr, lubridate
+Suggests: testthat, rms, knitr, rmarkdown
 License: GPL-3
-MD5sum: 26363a00807c1177ed2f1b3c91d6b30d
+MD5sum: 011b1fcf917d1d32541f2f7708c22fd8
 NeedsCompilation: no
 
 Package: RAWmisc
