@@ -56,7 +56,7 @@ Depends: R (>= 3.5.0)
 Imports: stringr, lubridate
 Suggests: testthat, rms, knitr, rmarkdown
 License: GPL-3
-MD5sum: 011b1fcf917d1d32541f2f7708c22fd8
+MD5sum: a0ad716793350a71f4c88ab62425145d
 NeedsCompilation: no
 
 Package: RAWmisc
