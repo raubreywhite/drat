@@ -51,11 +51,11 @@ MD5sum: c3c5433c6969090c5b40e2038adcc4ac
 NeedsCompilation: no
 
 Package: org
-Version: 2019.3.5
+Version: 2019.4.2
 Depends: R (>= 3.3.0)
 Suggests: testthat, knitr, rmarkdown
 License: GPL-3
-MD5sum: 417b1e84aedad8cc0f57b027d699b9a0
+MD5sum: dc50297ea0853654011618623eaad82b
 NeedsCompilation: no
 
 Package: RAWmisc
